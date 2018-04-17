@@ -11,14 +11,14 @@
   运行结果将显示文件f1.txt中各个句子的数量；   <br>
 
 ### 文件列表及其相关说明   <br>
-1.WordCount.cpp   <br>
+1.v1.0  /v2.0 <br>
   该文件包含项目所有程序  <br>
-2.WordCount.exe  <br>
-  用来执行程序的相关命令   <br>
-3.f1.txt    <br>
+2.f1.txt    <br>
   纯英文文本文件   <br>
-4.README.md    <br>
+3.README.md    <br>
   对项目进行简介及相关运行结果等   <br>
+4.运行结果.png  <br>
+  该文件为程序运行结果截图  <br>
  
 ### 例程运行及其相关结果   <br>
  1. wc.exe -c f1.txt    <br>
