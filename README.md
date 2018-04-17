@@ -27,4 +27,4 @@
     word=83  <br>
  3. wc.exe -s f1.txt   <br>
     sentence=6  <br>
-![运行结果](https://github.com/Sivia9/Word-Count/raw/master/软件基础程序/8P$R}VRS4P$]4L7UN2$9}RJ.png)
+
